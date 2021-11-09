@@ -1,0 +1,13 @@
+---
+title: "Lab_7_collab"
+author: "Cristina"
+date: "11/9/2021"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## R Markdown
+# Hello Kathryn you da best
