@@ -7,31 +7,6 @@ output: html_document
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
+
 ```
 
-## R Markdown
-
-<<<<<<< HEAD
-
-<<<<<<< HEAD
-# what is up girl 
-
-```{r task 1}
-
-
-plot(cars)
-plot
-```
-
-```{r task 2}
- 
-hist(cars$distance)
-mean_value <- mean(cars$dist)
-```
-
-=======
-=======
-
-# what is up girl 
->>>>>>> 977d7c0c585fd60a7f0ad02e4661f515a5ecbe16
->>>>>>> 3e3ed44486534c6b2d9c6f28891f5fad01e31b3c
