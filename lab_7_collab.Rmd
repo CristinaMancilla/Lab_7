@@ -11,4 +11,9 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ## R Markdown
 # Hello Kathryn you da best
+<<<<<<< HEAD
 ## thanks you da best
+=======
+
+# what is up girl 
+>>>>>>> 977d7c0c585fd60a7f0ad02e4661f515a5ecbe16
