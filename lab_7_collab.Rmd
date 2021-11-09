@@ -22,6 +22,6 @@ plot
 ```
 
 ```{r task 2}
-
+hist(cars$distance)
 ```
 
