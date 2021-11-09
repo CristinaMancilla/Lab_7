@@ -10,7 +10,7 @@ knitr::opts_chunk$set(echo = TRUE)
 ```
 
 ## R Markdown
-# Hello Kathryn you da best
+# Hello Kathryn you da best 
 <<<<<<< HEAD
 ## thanks you da best
 =======
