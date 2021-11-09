@@ -18,6 +18,7 @@ knitr::opts_chunk$set(echo = TRUE)
 
 
 plot(cars)
+plot
 ```
 
 ```{r task 2}
